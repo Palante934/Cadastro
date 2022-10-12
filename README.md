@@ -2,16 +2,17 @@
 
 ![preview](.github/preview.png)
 
-> Trilha Explorer
+> Estudo de programação web
 
-Projeto construído do evento Next Level Week da Rocketseat
+Projeto construído com a intenção de evoluir
 
-[Clique aqui para acessar](https://palante934.github.io/nlw/)
+[Clique aqui para acessar](https://palante934.github.io/Cadastro/)
 
 ## 🛠 Tecnologias
 
 - HTML
 - CSS
+- JS
 - Git e Github
 
 ## 😉 Contato
